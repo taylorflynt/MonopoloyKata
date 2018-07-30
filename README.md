@@ -1,1 +1,1 @@
-# MonopoloyKata
+# MonopolyKata
